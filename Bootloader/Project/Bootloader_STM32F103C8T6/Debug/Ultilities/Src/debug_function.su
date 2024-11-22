@@ -1,0 +1,2 @@
+../Ultilities/Src/debug_function.c:89:6:UTILS_DEBUG_Init	16	static
+../Ultilities/Src/debug_function.c:93:6:UTILS_DEBUG_PrintUARTMsg	104	static
